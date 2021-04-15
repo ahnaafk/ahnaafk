@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 15 year old BCI developer based in Toronto. I just built a neurofeedback program using Brainflow-Python.
+
+Currently learning more about Machine Learning, Brain-Computer Interfaces, and Web Development. Always down to chat about anything cool. 
+
+Contact: 
+
+Email: ahnaafk@gmail.com
+
+Website: ahnaafkhan.com
