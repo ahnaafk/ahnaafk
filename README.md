@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 15 year old BCI developer based in Toronto. I just built a neurofeedback program using Brainflow-Python.
+I’m an 18 y/o self-taught neurotech developer and graphic designer. 
 
-Currently learning more about Machine Learning, Brain-Computer Interfaces, and Web Development. Always down to chat about anything cool. 
+Currently, an undergraduate @ Queen's University studying Mechatronics Engineering while exploring and writing about different avenues in carbon capture & profitability. Recently, I've been particularly interested in the space of electrochemical graphite synthesis from CO2. 
+
+In the past, I co-founded NeuraDAO, a neurotech / web3 organization which was a holistic network for neurotech where you can fund, publish, and contribute to research. Some accomplishments from that time include: 
+- Crowdfunding $6,000+ USD on Gitcoin
+- Stage presence at several global conferences (ETHAmsterdam, Collision, etc.)
+- Building a world-class team of neuroscience Ph.Ds, web3/web2 developers, and IP lawyers dedicated to driving the neurotech space forward
+- Building a community filled with hundreds of neurotech researchers, scientists, etc.
+
+Additionally, while building NeuraDAO I spoke on several stages across the globe about my work in web3 and what the future of web3 looks like.
+
+Looking forward, I would like to build out a small carbon capture device in my dorm room.
 
 Contact: 
 
 Email: ahnaafk@gmail.com
 
-Website: https://ahnaafkhan.com/
+Website: https://ahnaafk.com/
