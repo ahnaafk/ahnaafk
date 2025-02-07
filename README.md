@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m an 18 y/o self-taught neurotech developer and graphic designer. 
+I’m an 19 y/o self-taught neurotech developer and graphic designer. 
 
 Currently, an undergraduate @ Queen's University studying Mechatronics Engineering while exploring and writing about different avenues in carbon capture & profitability. Recently, I've been particularly interested in the space of electrochemical graphite synthesis from CO2. 
 
